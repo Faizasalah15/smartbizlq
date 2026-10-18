@@ -1,0 +1,21 @@
+# SmartBizLQ dependencies (tested together on Python 3.10-3.13)
+streamlit==1.40.2
+pandas==2.2.3
+numpy==2.1.3
+pyarrow==18.1.0
+plotly==5.24.1
+# kaleido renders charts to images for the PowerPoint export (0.2.1 can hang on Windows)
+kaleido==0.1.0.post1; sys_platform == "win32"
+kaleido==0.2.1; sys_platform != "win32"
+sqlalchemy==2.0.35
+pymysql==1.1.1
+scikit-learn==1.5.2
+python-dotenv==1.0.1
+bcrypt==4.2.0
+joblib==1.4.2
+python-pptx==1.0.2
+openpyxl==3.1.5
+prophet==1.1.7
+# Prophet 1.1.x breaks with cmdstanpy 1.3 ("CmdStan installation missing makefile")
+cmdstanpy==1.2.5
+requests==2.32.3

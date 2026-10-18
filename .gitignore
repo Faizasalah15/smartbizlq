@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment / secrets
+.env
+.env.txt
+.env.local
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Model artefacts
+models/
+
+# Generated reports
+reports/
+temp_report_assets/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Byte-compiled / optimised
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pytest
+.pytest_cache/
+
+# Ruff
+.ruff_cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# User-saved datasets (may contain private or licensed data)
+datasets/
+
+# Delivery archive and personal notes
+SmartBizLQ_v1.1.zip
+SmartBizLQ_interview_notes.md
+
+# Stray files from the original folder
+/SQL
+/python
+/_original/
+/smartbizlq_sample_200rows.csv
+/db_test*.py

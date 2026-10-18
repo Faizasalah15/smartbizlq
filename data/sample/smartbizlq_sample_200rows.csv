@@ -1,0 +1,205 @@
+order_id,order_date,customer_id,region,country,product_category,product_id,product_name,quantity,unit_price,revenue,payment_type,channel,month,quarter,year
+100015,2023-04-10,C28689,Oceania,Australia,Home,P3646,Coffee Maker,1,419.11,419.11,Credit Card,Retail,4,Q2,2023
+100009,2024-04-11,C29292,Asia,Singapore,Apparel,P4456,T-Shirt,1,598.18,598.18,Wire Transfer,Online,4,Q2,2024
+100115,2023-02-10,C22950,Asia,Singapore,Home,P9702,Air Purifier,1,636.22,636.22,PayPal,Online,2,Q1,2023
+100078,2023-07-21,C23130,Africa,Kenya,Apparel,P1166,Hat,2,504.41,1008.82,Credit Card,Online,7,Q3,2023
+100066,2024-07-15,C23467,North America,Canada,Home,P5262,Vacuum,1,994.02,994.02,Cash,Retail,7,Q3,2024
+100045,2024-04-29,C28785,Asia,China,Apparel,P9346,Jacket,1,584.61,584.61,Wire Transfer,Online,4,Q2,2024
+100143,2023-08-29,C21527,Oceania,New Zealand,Electronics,P2398,Smartphone,1,1108.18,1108.18,Cash,Online,8,Q3,2023
+100177,2023-10-10,C27873,North America,United States,Toys,P5096,Board Game,1,442.67,442.67,Wire Transfer,Online,10,Q4,2023
+100058,2023-04-02,C22607,Africa,Kenya,Toys,P9976,Doll,1,1452.88,1452.88,Cash,Retail,4,Q2,2023
+100180,2023-09-16,C21623,South America,Brazil,Apparel,P1461,Jeans,1,59.24,59.24,Wire Transfer,Online,9,Q3,2023
+100069,2024-01-25,C29240,Africa,South Africa,Home,P8758,Air Purifier,1,823.33,823.33,PayPal,Retail,1,Q1,2024
+100162,2024-10-07,C29248,Oceania,New Zealand,Beauty,P8354,Sunscreen,1,837.43,837.43,Wire Transfer,Retail,10,Q4,2024
+100166,2023-12-06,C21013,Africa,Kenya,Home,P8792,Coffee Maker,1,589.63,589.63,Cash,Online,12,Q4,2023
+100187,2024-11-07,C25649,Asia,Japan,Office,P6850,Chair,1,380.47,380.47,PayPal,Online,11,Q4,2024
+100056,2024-07-18,C23585,North America,United States,Office,P2746,Chair,1,606.19,606.19,PayPal,Retail,7,Q3,2024
+100190,2024-11-14,C28444,North America,United States,Home,P6170,Vacuum,1,1840.6,1840.6,Cash,Retail,11,Q4,2024
+100018,2024-10-23,C29938,Oceania,New Zealand,Toys,P5342,Board Game,3,739.53,2218.59,Cash,Online,10,Q4,2024
+100079,2023-09-27,C28041,Oceania,New Zealand,Beauty,P4937,Sunscreen,3,961.36,2884.08,Cash,Online,9,Q3,2023
+100055,2023-12-12,C26291,South America,Argentina,Office,P4185,Mouse,1,660.22,660.22,Cash,Retail,12,Q4,2023
+100145,2023-04-06,C29837,South America,Argentina,Office,P1842,Keyboard,3,1727.07,5181.21,Wire Transfer,Retail,4,Q2,2023
+100176,2024-01-12,C24616,Asia,Singapore,Home,P8218,Coffee Maker,1,305.32,305.32,Cash,Retail,1,Q1,2024
+100097,2023-01-15,C29590,South America,Chile,Office,P5557,Keyboard,1,132.48,132.48,Cash,Retail,1,Q1,2023
+100095,2023-02-10,C29891,South America,Brazil,Toys,P8078,Action Figure,1,353.45,353.45,Wire Transfer,Online,2,Q1,2023
+100030,2023-09-10,C28320,Africa,Nigeria,Toys,P3579,RC Car,2,967.2,1934.4,Credit Card,Online,9,Q3,2023
+100126,2024-11-14,C26086,South America,Argentina,Office,P7242,Monitor,1,582.36,582.36,Credit Card,Online,11,Q4,2024
+100016,2024-10-25,C23923,South America,Brazil,Electronics,P6038,Tablet,1,1216.16,1216.16,Credit Card,Online,10,Q4,2024
+100173,2023-07-09,C21657,South America,Brazil,Home,P3538,Air Purifier,1,1067.61,1067.61,Credit Card,Retail,7,Q3,2023
+100086,2023-10-23,C27827,South America,Argentina,Apparel,P1841,Jeans,1,271.13,271.13,Credit Card,Online,10,Q4,2023
+100163,2023-01-28,C24961,North America,Canada,Electronics,P8245,Headphones,1,133.51,133.51,Wire Transfer,Online,1,Q1,2023
+100124,2024-12-28,C21233,Asia,Singapore,Apparel,P2886,Jacket,1,1001.37,1001.37,PayPal,Online,12,Q4,2024
+100065,2023-03-22,C20444,North America,Mexico,Toys,P7455,Action Figure,1,820.96,820.96,Credit Card,Retail,3,Q1,2023
+100068,2023-01-02,C24051,Asia,India,Office,P1659,Chair,1,435.5,435.5,PayPal,Online,1,Q1,2023
+100127,2024-12-26,C23626,South America,Brazil,Toys,P6374,RC Car,1,2103.07,2103.07,Credit Card,Retail,12,Q4,2024
+100067,2024-01-23,C27705,Asia,Singapore,Apparel,P5133,Sneakers,1,27.21,27.21,Credit Card,Online,1,Q1,2024
+100076,2024-07-09,C29336,North America,United States,Apparel,P4995,Sneakers,1,669.93,669.93,Cash,Retail,7,Q3,2024
+100100,2023-12-10,C26622,Europe,France,Apparel,P2899,Jacket,2,2024.77,4049.54,Credit Card,Retail,12,Q4,2023
+100139,2024-07-07,C22430,South America,Chile,Beauty,P2323,Moisturizer,1,334.19,334.19,Credit Card,Online,7,Q3,2024
+100137,2023-07-26,C23629,South America,Argentina,Apparel,P2786,Hat,1,154.48,154.48,Credit Card,Retail,7,Q3,2023
+100165,2024-07-09,C29508,Oceania,Australia,Toys,P9307,RC Car,2,1591.01,3182.02,Credit Card,Retail,7,Q3,2024
+100084,2023-09-09,C22073,North America,Canada,Home,P1231,Coffee Maker,1,850.79,850.79,Wire Transfer,Online,9,Q3,2023
+100082,2024-04-06,C21958,Asia,India,Electronics,P6169,Laptop,1,207.79,207.79,PayPal,Online,4,Q2,2024
+100198,2023-04-23,C20530,North America,Mexico,Apparel,P7272,Jacket,2,945.14,1890.28,PayPal,Retail,4,Q2,2023
+100093,2024-01-15,C21169,Europe,Spain,Home,P5352,Air Purifier,1,1006.28,1006.28,Credit Card,Online,1,Q1,2024
+100038,2023-07-09,C25464,Europe,United Kingdom,Office,P5533,Keyboard,1,205.7,205.7,PayPal,Retail,7,Q3,2023
+100024,2023-07-11,C26596,South America,Chile,Electronics,P1993,Smartphone,1,398.64,398.64,Wire Transfer,Online,7,Q3,2023
+100096,2023-06-06,C24415,Europe,Germany,Office,P1339,Mouse,1,882.76,882.76,Credit Card,Online,6,Q2,2023
+100111,2023-10-16,C24342,Europe,Netherlands,Home,P3529,Blender,1,944.28,944.28,Wire Transfer,Retail,10,Q4,2023
+100029,2023-01-22,C25138,North America,Canada,Home,P9883,Vacuum,2,466.25,932.5,Credit Card,Online,1,Q1,2023
+100019,2023-11-05,C26118,Africa,Kenya,Office,P6107,Desk,1,1382.74,1382.74,Cash,Retail,11,Q4,2023
+100060,2024-03-30,C28849,Europe,Netherlands,Apparel,P5451,Jeans,1,1046.21,1046.21,Credit Card,Online,3,Q1,2024
+100154,2023-06-09,C21965,North America,Canada,Home,P5186,Air Purifier,1,1053.95,1053.95,Credit Card,Retail,6,Q2,2023
+100167,2023-11-27,C27172,Asia,China,Toys,P1641,Board Game,1,1315.2,1315.2,Cash,Online,11,Q4,2023
+100090,2023-02-22,C29043,Oceania,Australia,Apparel,P3573,T-Shirt,1,140.86,140.86,Credit Card,Online,2,Q1,2023
+100005,2024-12-01,C21139,Europe,Spain,Apparel,P6925,Hat,1,1220.11,1220.11,Credit Card,Online,12,Q4,2024
+100128,2024-06-30,C20609,Oceania,New Zealand,Office,P2911,Keyboard,1,306.95,306.95,Wire Transfer,Retail,6,Q2,2024
+100118,2023-07-20,C26951,Europe,Italy,Apparel,P5901,Hat,1,1373.22,1373.22,Wire Transfer,Retail,7,Q3,2023
+100192,2024-01-09,C26334,Europe,France,Beauty,P8204,Serum,1,166.85,166.85,Wire Transfer,Online,1,Q1,2024
+100142,2024-07-28,C24176,South America,Argentina,Beauty,P6120,Moisturizer,3,1683.32,5049.96,Wire Transfer,Online,7,Q3,2024
+100189,2023-08-22,C27498,Oceania,New Zealand,Office,P3209,Desk,1,1127.92,1127.92,Credit Card,Retail,8,Q3,2023
+100175,2024-01-20,C27355,South America,Argentina,Office,P8277,Desk,1,221.58,221.58,PayPal,Online,1,Q1,2024
+100073,2024-12-03,C25590,Africa,Nigeria,Office,P2129,Monitor,1,290.65,290.65,Credit Card,Retail,12,Q4,2024
+100172,2023-08-19,C22953,Africa,Nigeria,Electronics,P6060,Tablet,1,582.46,582.46,PayPal,Retail,8,Q3,2023
+100098,2023-03-06,C21713,Europe,Italy,Apparel,P6460,Sneakers,1,1500.42,1500.42,PayPal,Retail,3,Q1,2023
+100031,2024-07-14,C21964,Europe,Spain,Electronics,P7615,Laptop,2,1180.16,2360.32,PayPal,Online,7,Q3,2024
+100012,2024-04-03,C29763,North America,Mexico,Home,P2040,Blender,2,1301.22,2602.44,Cash,Retail,4,Q2,2024
+100035,2024-11-12,C28900,Asia,China,Home,P5669,Coffee Maker,1,629.21,629.21,Wire Transfer,Online,11,Q4,2024
+100120,2023-02-17,C20132,Oceania,New Zealand,Electronics,P5497,Headphones,1,1042.41,1042.41,Credit Card,Retail,2,Q1,2023
+100042,2023-09-01,C25442,North America,United States,Home,P1406,Blender,1,336.96,336.96,Cash,Online,9,Q3,2023
+100075,2024-12-30,C29707,Africa,Kenya,Beauty,P8136,Serum,2,584.16,1168.32,Wire Transfer,Retail,12,Q4,2024
+100150,2023-06-20,C29299,South America,Argentina,Home,P6105,Coffee Maker,1,508.23,508.23,Credit Card,Online,6,Q2,2023
+100138,2023-01-15,C26580,South America,Chile,Electronics,P8847,Smartphone,1,907.64,907.64,Cash,Online,1,Q1,2023
+100051,2024-08-23,C20006,Oceania,Australia,Toys,P5930,RC Car,1,1467.1,1467.1,Wire Transfer,Retail,8,Q3,2024
+100122,2024-02-11,C22153,Oceania,Australia,Apparel,P1546,Sneakers,1,809.64,809.64,Credit Card,Retail,2,Q1,2024
+100164,2024-09-11,C26041,Asia,China,Apparel,P8404,Sneakers,1,486.92,486.92,Wire Transfer,Online,9,Q3,2024
+100041,2024-07-20,C29173,Europe,France,Home,P2684,Air Purifier,1,809.37,809.37,Cash,Online,7,Q3,2024
+100119,2023-02-02,C29370,Asia,India,Beauty,P2747,Serum,1,373.42,373.42,Wire Transfer,Retail,2,Q1,2023
+100114,2023-08-19,C20919,South America,Brazil,Office,P1474,Monitor,1,311.97,311.97,Wire Transfer,Retail,8,Q3,2023
+100026,2023-06-10,C28856,North America,United States,Beauty,P2604,Sunscreen,1,994.63,994.63,Credit Card,Online,6,Q2,2023
+100135,2024-02-02,C23898,North America,United States,Office,P3159,Chair,1,1026.28,1026.28,Wire Transfer,Online,2,Q1,2024
+100101,2023-05-09,C28167,South America,Brazil,Home,P6927,Microwave,1,928.97,928.97,Cash,Online,5,Q2,2023
+100112,2024-01-14,C27994,Oceania,Australia,Apparel,P7226,Hat,2,1559.27,3118.54,Credit Card,Online,1,Q1,2024
+100002,2023-09-28,C29654,Africa,South Africa,Office,P7873,Mouse,1,"$1,299.00",1377.56,Wire Transfer,Online,9,Q3,2023
+100077,2023-06-11,C24232,Europe,Italy,Apparel,P8988,Jeans,1,453.06,453.06,Wire Transfer,Retail,6,Q2,2023
+100046,2024-10-08,C29774,Europe,France,Home,P5349,Microwave,1,743.2,743.2,Cash,Retail,10,Q4,2024
+100117,2023-05-15,C27622,South America,Chile,Apparel,P5183,Sneakers,1,1349.11,1349.11,Wire Transfer,Online,5,Q2,2023
+100144,2024-07-17,C29201,Oceania,New Zealand,Home,P1982,Microwave,1,1365.83,1365.83,Wire Transfer,Online,7,Q3,2024
+100085,2024-12-02,C20200,Europe,Spain,Apparel,P9042,Jeans,1,897.79,897.79,Wire Transfer,Retail,12,Q4,2024
+100136,2024-01-28,C28619,North America,Canada,Electronics,P7897,Laptop,1,728.96,728.96,Credit Card,Online,1,Q1,2024
+100036,2024-04-20,C21753,Oceania,New Zealand,Office,P3200,Chair,1,1438.73,1438.73,PayPal,Retail,4,Q2,2024
+100109,2024-11-05,C22492,Oceania,New Zealand,Office,P7325,Keyboard,1,2031.86,2031.86,Cash,Online,11,Q4,2024
+100061,2024-03-03,C26678,North America,United States,Beauty,P4505,Lipstick,1,297.06,297.06,Wire Transfer,Retail,3,Q1,2024
+100022,2024-02-18,C29355,Africa,South Africa,Apparel,P4510,Sneakers,1,434.4,434.4,Cash,Online,2,Q1,2024
+100141,2024-11-21,C23743,Oceania,Australia,Office,P4522,Mouse,1,1578.8,1578.8,Cash,Retail,11,Q4,2024
+100194,2024-08-30,C21311,South America,Chile,Home,P5813,Microwave,1,124.88,124.88,Wire Transfer,Retail,8,Q3,2024
+100033,2023-02-28,C21188,North America,Canada,Beauty,P5915,Lipstick,1,1632.61,1632.61,Credit Card,Retail,2,Q1,2023
+100011,2023-11-27,C21489,Africa,Nigeria,Apparel,P3266,Jeans,4,730.85,2923.4,Credit Card,Online,11,Q4,2023
+100197,2024-11-22,C20570,Asia,India,Electronics,P8179,Laptop,1,1091.92,1091.92,PayPal,Online,11,Q4,2024
+100161,2024-07-27,C22504,North America,United States,Home,P4232,Coffee Maker,1,895.12,895.12,Credit Card,Online,7,Q3,2024
+100006,2023-01-21,C25977,Asia,China,Home,P7227,Vacuum,1,783.45,783.45,PayPal,Retail,1,Q1,2023
+100027,2024-04-04,C26570,North America,United States,Beauty,P8886,Serum,1,388.82,388.82,Credit Card,Online,4,Q2,2024
+100193,2024-11-02,C21353,South America,Chile,Beauty,P9507,Shampoo,1,202.47,202.47,Cash,Online,11,Q4,2024
+100004,2023-03-13,C27527,South America,Brazil,Apparel,P5333,Jacket,1,89.29,89.29,Credit Card,Retail,3,Q1,2023
+100032,2024-04-19,C24272,Africa,South Africa,Beauty,P9565,Sunscreen,1,889.55,889.55,PayPal,Retail,4,Q2,2024
+100104,2023-03-04,C24781,North America,United States,Beauty,P3522,Moisturizer,1,39.31,39.31,Wire Transfer,Retail,3,Q1,2023
+100147,2024-02-11,C27030,Africa,Nigeria,Electronics,P4705,Tablet,2,644.88,1289.76,Credit Card,Retail,2,Q1,2024
+100152,2023-02-05,C21816,South America,Argentina,Home,P2864,Microwave,2,379.04,758.08,Wire Transfer,Retail,2,Q1,2023
+100146,2024-04-29,C23674,Europe,Spain,Toys,P3535,Board Game,2,1765.97,3531.94,Credit Card,Retail,4,Q2,2024
+100010,2023-08-03,C24040,Oceania,New Zealand,Beauty,P3340,Serum,2,685.79,1371.58,Wire Transfer,Retail,8,Q3,2023
+100062,2024-05-23,C29569,South America,Brazil,Home,P7381,Blender,1,787.33,787.33,Credit Card,Retail,5,Q2,2024
+100113,2024-05-04,C27110,North America,Mexico,Office,P4727,Monitor,2,1418.86,2837.72,Credit Card,Online,5,Q2,2024
+100148,2023-08-19,C22972,Europe,Germany,Apparel,P6567,Jacket,1,631.68,631.68,PayPal,Retail,8,Q3,2023
+100168,2024-10-01,C29795,Asia,Japan,Apparel,P7697,Sneakers,2,570.55,1141.1,Credit Card,Retail,10,Q4,2024
+100000,2023/01/01 00:00:00,C23657,Oceania,Australia,Electronics,P5012,Tablet,1,377.85,377.85,PayPal,Online,4,Q2,2023
+100182,2024-12-10,C29975,Europe,United Kingdom,Apparel,P3449,Jeans,1,516.66,516.66,Cash,Online,12,Q4,2024
+100155,2024-11-29,C23770,Oceania,New Zealand,Home,P7229,Air Purifier,1,706.52,706.52,Wire Transfer,Online,11,Q4,2024
+100070,2024-07-19,C22683,Oceania,New Zealand,Apparel,P2876,Jeans,1,1967.03,1967.03,Wire Transfer,Online,7,Q3,2024
+100125,2023-04-09,C20228,Oceania,New Zealand,Toys,P2479,Puzzle,1,1639.98,1639.98,Wire Transfer,Online,4,Q2,2023
+100064,2023-07-25,C26624,North America,Canada,Beauty,P1475,Serum,1,907.78,907.78,PayPal,Retail,7,Q3,2023
+100044,2023-05-11,C23164,South America,Argentina,Apparel,P4652,Jeans,1,984.25,984.25,Cash,Retail,5,Q2,2023
+100132,2023-01-05,C23475,South America,Argentina,Home,P8450,Vacuum,1,359.01,359.01,Credit Card,Online,1,Q1,2023
+100028,2023-11-10,C29105,South America,Brazil,Beauty,P8454,Shampoo,1,1252.77,1252.77,Cash,Online,11,Q4,2023
+100040,2024-07-16,C20685,Africa,South Africa,Apparel,P3426,Hat,1,529.88,529.88,Wire Transfer,Retail,7,Q3,2024
+100108,2024-01-27,C26730,Asia,India,Office,P7274,Desk,3,1215.62,3646.86,Credit Card,Retail,1,Q1,2024
+100181,2023-12-25,C27685,North America,United States,Apparel,P3273,Sneakers,1,908.42,908.42,Cash,Online,12,Q4,2023
+100123,2024-07-27,C25994,Asia,Singapore,Home,P3165,Air Purifier,3,1228.57,3685.71,Wire Transfer,Online,7,Q3,2024
+100158,2024-07-31,C21734,North America,Mexico,Beauty,P2443,Shampoo,1,697.66,697.66,PayPal,Retail,7,Q3,2024
+100025,2023-10-04,C23006,North America,United States,Home,P8350,Microwave,4,1216.98,4867.92,Wire Transfer,Retail,10,Q4,2023
+100023,2024-01-21,C25804,South America,Argentina,Home,P2588,Vacuum,1,2002.37,2002.37,Cash,Retail,1,Q1,2024
+100153,2024-06-08,C29819,Africa,Kenya,Apparel,P4612,T-Shirt,2,976.88,1953.76,Credit Card,Online,6,Q2,2024
+100185,2024-10-10,C21402,Europe,Spain,Apparel,P7825,Jeans,1,1224.11,1224.11,Wire Transfer,Online,10,Q4,2024
+100081,2024-03-31,C27434,Africa,Kenya,Apparel,P6419,Sneakers,1,1106.79,1106.79,Wire Transfer,Retail,3,Q1,2024
+100039,2024-11-17,C21832,North America,Mexico,Beauty,P8007,Sunscreen,1,1410.72,1410.72,Credit Card,Online,11,Q4,2024
+100170,2023-12-14,C26421,Asia,China,Toys,P6731,Board Game,1,336.45,336.45,PayPal,Online,12,Q4,2023
+100047,2023-01-21,C29446,Oceania,New Zealand,Beauty,P9379,Sunscreen,2,287.9,575.8,PayPal,Retail,1,Q1,2023
+100094,2024-05-07,C26594,Asia,Japan,Beauty,P8679,Moisturizer,1,112.62,112.62,Wire Transfer,Retail,5,Q2,2024
+100156,2023-08-31,C27532,South America,Chile,Electronics,P1307,Headphones,1,380.6,380.6,Credit Card,Retail,8,Q3,2023
+100043,2024-05-19,C27711,Asia,India,Office,P7267,Chair,1,2308.81,2308.81,PayPal,Online,5,Q2,2024
+100140,2024-04-05,C28282,Asia,Japan,Beauty,P9692,Sunscreen,3,1168.14,3504.42,Cash,Online,4,Q2,2024
+100003,2023-04-17,C25514,North America,Mexico,Beauty,P5552,Shampoo,1,1253.41,1253.41,Credit Card,Online,4,Q2,2023
+100105,2023-05-19,C29820,South America,Argentina,Home,P3369,Blender,2,819.79,1639.58,PayPal,Online,5,Q2,2023
+100053,2023-01-14,C25491,Oceania,Australia,Office,P5649,Chair,1,1013.22,1013.22,Credit Card,Online,1,Q1,2023
+100133,2023-08-06,C29080,Asia,India,Home,P4362,Microwave,1,68.94,68.94,PayPal,Online,8,Q3,2023
+100183,2024-03-31,C27489,Asia,India,Apparel,P1782,T-Shirt,1,115.93,115.93,Credit Card,Online,3,Q1,2024
+100159,2024-11-12,C25562,Africa,Nigeria,Toys,P7484,Action Figure,1,1749.64,1749.64,PayPal,Retail,11,Q4,2024
+100196,2023-08-21,C20939,Oceania,New Zealand,Toys,P5498,Doll,1,1835.9,1835.9,Credit Card,Retail,8,Q3,2023
+100049,2023-10-01,C22041,South America,Brazil,Office,P6143,Monitor,2,102.21,204.42,Wire Transfer,Retail,10,Q4,2023
+100080,2023-09-28,C29528,Europe,France,Home,P4986,Blender,2,301.49,602.98,Wire Transfer,Retail,9,Q3,2023
+100034,2024-05-25,C23492,Africa,Kenya,Electronics,P9808,Smartphone,3,433.04,1299.12,Wire Transfer,Online,5,Q2,2024
+100007,2024-09-06,C22803,Asia,India,Office,P2169,Monitor,1,1091.57,1091.57,PayPal,Online,9,Q3,2024
+100110,2024-02-23,C27213,North America,Mexico,Toys,P2644,Puzzle,1,1360.6,1360.6,Credit Card,Retail,2,Q1,2024
+100091,2023-08-05,C23792,Europe,Italy,Beauty,P8699,Sunscreen,1,1390.32,1390.32,Wire Transfer,Retail,8,Q3,2023
+100083,2024-12-27,C21647,North America,Mexico,Beauty,P9595,Shampoo,3,1393.72,4181.16,PayPal,Retail,12,Q4,2024
+100040,2024-07-16,C20685,Africa,South Africa,Apparel,P3426,Hat,1,529.88,529.88,Wire Transfer,Retail,7,Q3,2024
+100184,2024-02-15,C22352,South America,Chile,Toys,P9443,Action Figure,3,804.29,2412.87,Wire Transfer,Retail,2,Q1,2024
+100089,2023-12-04,C20986,South America,Argentina,Apparel,P8025,Hat,2,672.7,1345.4,Credit Card,Online,12,Q4,2023
+100008,2023-05-02,C20916,South America,Argentina,Apparel,P4598,Hat,1,180.65,180.65,PayPal,Online,5,Q2,2023
+100013,2023-03-29,C25573,Africa,South Africa,Office,P9797,Chair,1,1113.14,1113.14,Credit Card,Retail,3,Q1,2023
+100059,2024-01-02,C23919,Asia,India,Office,P9540,Monitor,2,136.13,272.26,Wire Transfer,Retail,1,Q1,2024
+100174,2023-08-13,C22712,Africa,South Africa,Toys,P3527,Doll,3,82.96,248.88,Cash,Online,8,Q3,2023
+100131,2024-10-04,C26018,North America,Canada,Beauty,P6942,Lipstick,1,599.42,599.42,Wire Transfer,Online,10,Q4,2024
+100017,2023-05-11,C28727,Africa,South Africa,Electronics,P2133,Headphones,1,153.3,153.3,PayPal,Online,5,Q2,2023
+100072,2024-04-21,C29272,Europe,Netherlands,Apparel,P2983,Hat,1,1513.16,1513.16,Credit Card,Retail,4,Q2,2024
+100178,2024-09-24,C28410,Oceania,Australia,Apparel,P3626,T-Shirt,1,395.19,395.19,PayPal,Retail,9,Q3,2024
+100134,2024-05-17,C22370,North America,Canada,Home,P1046,Microwave,3,1243.33,3729.99,PayPal,Retail,5,Q2,2024
+100171,2024-04-17,C28624,Asia,Singapore,Office,P3093,Monitor,1,2046.66,2046.66,Credit Card,Retail,4,Q2,2024
+100186,2023-11-14,C27702,Africa,Kenya,Toys,P1333,RC Car,1,1435.28,1435.28,Credit Card,Retail,11,Q4,2023
+100063,2023-02-04,C26865,South America,Brazil,Apparel,P7389,Jacket,2,331.76,663.52,PayPal,Retail,2,Q1,2023
+100054,2023-08-30,C24011,Oceania,New Zealand,Home,P3414,Air Purifier,1,1065.41,1065.41,Cash,Online,8,Q3,2023
+100107,2024-08-15,C28903,North America,Canada,Toys,P6654,Doll,1,1462.35,1462.35,Cash,Retail,8,Q3,2024
+100050,2024-01-23,C23143,Oceania,New Zealand,Apparel,P5844,Sneakers,4,890.91,3563.64,Cash,Retail,1,Q1,2024
+100199,2024-05-11,C26521,Asia,Japan,Beauty,P3255,Moisturizer,1,387.92,387.92,Wire Transfer,Retail,5,Q2,2024
+100169,2024-05-20,C24655,Europe,France,Electronics,P7333,Smartwatch,1,122.4,122.4,Wire Transfer,Online,5,Q2,2024
+100058,2023-04-02,C22607,Africa,Kenya,Toys,P9976,Doll,1,1452.88,1452.88,Cash,Retail,4,Q2,2023
+100048,2023-06-16,C28821,Europe,Netherlands,Beauty,P9518,Moisturizer,1,1401.71,1401.71,PayPal,Retail,6,Q2,2023
+100088,2024-12-20,C29933,Europe,Germany,Electronics,P7818,Smartwatch,1,96.71,96.71,PayPal,Retail,12,Q4,2024
+100021,2024-05-06,C20514,Europe,United Kingdom,Office,P4750,Chair,1,626.78,626.78,Wire Transfer,Online,5,Q2,2024
+100057,2023-12-06,C27612,Europe,Spain,Home,P8478,Vacuum,1,471.09,471.09,Wire Transfer,Retail,12,Q4,2023
+100160,2024-07-10,C25724,North America,United States,Toys,P9693,Action Figure,2,1495.45,2990.9,Wire Transfer,Online,7,Q3,2024
+100195,2024-04-16,C25759,Asia,Singapore,Toys,P3730,Doll,1,1120.39,1120.39,Cash,Online,4,Q2,2024
+100129,2024-09-04,C26078,Europe,United Kingdom,Home,P3222,Microwave,1,1211.08,1211.08,Cash,Online,9,Q3,2024
+100037,2024-11-30,C24325,Asia,India,Office,P4335,Monitor,1,51.24,51.24,Cash,Retail,11,Q4,2024
+100157,2023-03-27,C26636,Africa,Nigeria,Toys,P7843,Doll,1,650.44,650.44,Credit Card,Retail,3,Q1,2023
+100191,2024-10-25,C20783,Asia,China,Office,P5687,Desk,1,1316.41,1316.41,Wire Transfer,Retail,10,Q4,2024
+100001,2024-03-11,C23582,Oceania,Australia,Toys,P1520,"  Tablet
+",1,781.82,781.82,PayPal,Online,3,Q1,2024
+100052,2023-11-12,C27244,North America,Canada,Toys,P6279,RC Car,1,1666.02,1666.02,PayPal,Retail,11,Q4,2023
+100149,2024-10-16,C23524,Europe,Germany,Office,P2503,Chair,2,330.35,660.7,Cash,Retail,10,Q4,2024
+100130,2024-04-06,C24583,South America,Chile,Electronics,P7686,Headphones,1,572.82,572.82,Credit Card,Retail,4,Q2,2024
+100151,2024-06-24,C26947,North America,United States,Toys,P2336,Action Figure,1,1259.92,1259.92,Cash,Retail,6,Q2,2024
+100103,2024-04-16,C29048,Oceania,Australia,Office,P6091,Desk,3,1665.06,4995.18,Cash,Online,4,Q2,2024
+100099,2024-06-04,C29012,South America,Chile,Beauty,P7561,Shampoo,1,53.84,53.84,Credit Card,Retail,6,Q2,2024
+100116,2023-01-28,C29554,Europe,Spain,Beauty,P4945,Sunscreen,1,1115.27,1115.27,PayPal,Online,1,Q1,2023
+100087,2024-12-25,C22485,South America,Argentina,Electronics,P1878,Smartwatch,1,648.19,648.19,PayPal,Retail,12,Q4,2024
+100074,2024-02-06,C27135,South America,Brazil,Beauty,P8532,Shampoo,4,1773.22,7092.88,PayPal,Retail,2,Q1,2024
+100121,2024-05-17,C24106,Asia,India,Toys,P4588,Puzzle,1,1878.76,1878.76,PayPal,Online,5,Q2,2024
+100034,2024-05-25,C23492,Africa,Kenya,Electronics,P9808,Smartphone,3,433.04,1299.12,Wire Transfer,Online,5,Q2,2024
+100020,2023-12-10,C29075,Europe,Germany,Home,P6539,Vacuum,1,797.08,797.08,PayPal,Online,12,Q4,2023
+100188,2023-08-13,C25546,Africa,Kenya,Apparel,P1726,Jeans,1,1229.75,1229.75,PayPal,Retail,8,Q3,2023
+100071,2023-04-16,C23249,Africa,South Africa,Apparel,P7149,Hat,1,956.84,956.84,Credit Card,Online,4,Q2,2023
+100106,2024-05-13,C24634,Asia,Singapore,Apparel,P5377,Hat,1,1564.81,1564.81,Wire Transfer,Retail,5,Q2,2024
+100014,2024-01-08,C22927,South America,Brazil,Beauty,P5315,Moisturizer,1,2154.99,2154.99,Credit Card,Retail,1,Q1,2024
+100092,2023-07-07,C29663,Oceania,New Zealand,Electronics,P5334,Laptop,1,779.88,779.88,PayPal,Retail,7,Q3,2023
+100179,2024-09-19,C26495,Europe,Germany,Beauty,P1436,Shampoo,1,442.98,442.98,Wire Transfer,Online,9,Q3,2024
+100102,2024-10-09,C27941,North America,Canada,Toys,P5719,Board Game,1,92.88,92.88,Credit Card,Online,10,Q4,2024
