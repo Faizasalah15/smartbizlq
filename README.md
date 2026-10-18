@@ -1,5 +1,7 @@
 # SmartBizLQ
 
+**Live demo:** [smartbizlq-krfqh3j2ake8lik236ugmk.streamlit.app](https://smartbizlq-krfqh3j2ake8lik236ugmk.streamlit.app/) (click *Explore as guest*; the free host may take ~30 seconds to wake up)
+
 A self-service business analytics app built in Python and Streamlit. Users upload a CSV (or pick a bundled demo dataset), track KPIs on an interactive dashboard, build their own charts, train and evaluate forecasting, churn and segmentation models, and test commercial scenarios in a profit model that exports to Excel with live formulas.
 
 > **Project history.** The first version was a single-file Streamlit app I built during my Data Analytics & Machine Learning internship at Networkz Systems (Jan–Aug 2025). In October 2026 I restructured it into a tested Python package and added model evaluation, the scenario and Excel module, and an energy-data pipeline. [CHANGELOG.md](CHANGELOG.md) keeps the two stages separate.
@@ -127,4 +129,3 @@ GitHub Actions runs lint and tests on Python 3.10, 3.12 and 3.14 for every push.
 
 - Multi-year scenario model with NPV and payback.
 - Wholesale price data from the all-island Single Electricity Market (SEMOpx day-ahead prices).
-- Deployment on Streamlit Community Cloud with a read-only guest mode.
