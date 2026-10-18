@@ -30,7 +30,7 @@ All figures below are produced by `python scripts/evaluate_models.py`, which wri
 
 ## Quick start
 
-Requires Python 3.10–3.13.
+Requires Python 3.10 or newer (tested on 3.10, 3.12 and 3.14).
 
 ```bash
 python -m venv .venv
@@ -114,7 +114,7 @@ ruff check .
 pytest
 ```
 
-GitHub Actions runs lint and tests on Python 3.10 and 3.12 for every push.
+GitHub Actions runs lint and tests on Python 3.10, 3.12 and 3.14 for every push.
 
 ## Limitations
 
